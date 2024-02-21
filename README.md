@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Agustin-del/Agustin-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+🌱 
+Estoy intentando aprender de vuelta esto, dejé ingeniería hace años y volví el año pasado a "interesarme" en la tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco aprender lo que sea, al no saber por donde arrancar (ahora seguir), más que unos amigos que me dijeron probá Python, intento agarrar un poco de donde venga.
+
+Estuve haciendo los cursos de cs50 y alguno más.
+
+Busco colaborar en lo que pueda, para meterme realmente en esto.
+
+💬 Ask me about 
+
+Todos estos años los usé para aprender a tocar la guitarra (más criolla que eléctrica), puedo aportar en ese lado artístico por ahora, el resto me queda grande.
